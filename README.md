@@ -1,4 +1,4 @@
-# 🍝🍰 Recipe Card Project — Day 1 of 10 Days of HTML & CSS Projects
+# 🍰 Recipe Card Project Day 1 of 10 Days of HTML & CSS Projects
 
 This project is part of my “10 Days of HTML & CSS Projects” challenge —
 where I build one project every day to improve my front-end design skills. 💪
