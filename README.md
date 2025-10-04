@@ -1,7 +1,7 @@
-# 🍝 Recipe Card Project
+# 🍝🍰 Recipe Card Project — Day 1 of 10 Days of HTML & CSS Projects
 
-A clean and minimal **Recipe Card** built using **HTML & CSS**.  
-This project displays a beautiful recipe layout with ingredients, instructions, and an image — perfect for practicing card UI design and responsive layout basics.
+This project is part of my “10 Days of HTML & CSS Projects” challenge —
+where I build one project every day to improve my front-end design skills. 💪
 
 ---
 
